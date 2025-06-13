@@ -15,7 +15,7 @@ The S gate is represented by the following unitary matrix:
 ```
 
 S = \[\[1, 0],
-\[0, i]]
+    \[0, i]]
 
 ````
 
