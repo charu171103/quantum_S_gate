@@ -71,7 +71,7 @@ pip install numpy
 3. Open and run:
 
 ```bash
-jupyter notebook s_gate_demo.ipynb
+jupyter notebook Sgate.ipynb
 ```
 
 ---
